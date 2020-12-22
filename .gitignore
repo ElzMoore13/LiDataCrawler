@@ -1,0 +1,5 @@
+.metadata/*
+RemoteSystemsTempFiles/*
+webCrawler/target/*
+webCrawler/bin/*
+/.metadata/
